@@ -17,6 +17,8 @@
 
 ## Report
 
+* öffnen über layout manager oder "layouts"
+
 https://north-road.com/2018/01/23/exploring-reports-in-qgis-3-0-the-ultimate-guide/
 
 https://anitagraser.com/2018/01/21/creating-reports-in-qgis/
