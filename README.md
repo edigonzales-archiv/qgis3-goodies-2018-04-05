@@ -21,6 +21,7 @@ https://north-road.com/2018/01/23/exploring-reports-in-qgis-3-0-the-ultimate-gui
 
 https://anitagraser.com/2018/01/21/creating-reports-in-qgis/
 
-Die Karte "controlled by report"
-momentan besserer Atlas
-Verschachtelung von reports/iterationen möglich
+* attribut: [% attribute(  $currentfeature , 'NAME')%]
+* Die Karte "controlled by report"
+* momentan besserer Atlas
+* Verschachtelung von reports/iterationen möglich
