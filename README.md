@@ -1,19 +1,20 @@
 # qgis3-goodies-2018-04-05
 
 ## Package layers
-
+* Geopackage
 
 ## conditional
-* Herkunft und Herkunft_J. Einmal row einmal nur Zelle.
+* Herkunft (nur zelle: condition herkunft='AV') und Herkunft_J (ganze reihe: Herkunftsjahr = 2018). Einmal row einmal nur Zelle.
 
 ## Filtering
 * Name filtern und selektieren. Selektion nach oben.
 * 'Ober' suchen -> 52 Objekte
-* Kantonsnum=11. verschiedene Varianten: Filter current selection -> 4
+* Kantonsnum=11. verschiedene Varianten.
 
 ## Interface customization
+* > Settings
 * Statusbar
-* Pluginsmenu
+* mPluginMenu
 
 ## Report
 
